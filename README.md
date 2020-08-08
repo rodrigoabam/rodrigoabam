@@ -1,16 +1,18 @@
-### Hi there 👋
+<header>
+  <h1 align="center">Hi there 👋, I'm Rodrigo Barbosa.</h1>
+  <h2 align="center">Nice to see you for here and welcome my portfolio!</h2>
+  <h3 align="center">A student front-end developer focused on improving my skills</h3>
+</header>
 
-<!--
-**rodrigoabam/rodrigoabam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 I have degree Computer science;
 
-Here are some ideas to get you started:
+- 💻 I'm currently do the Rocketseat Launchbase bootcamp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 I'm learning **JavaScript, HTML, CSS, SQL, TypeScript, React and React-Native**;
+
+<footer>
+<p align="center">
+<a href="mailto:rodrigoab.am@gmail.com" target="blank"><img align="center" src="https://ik.imagekit.io/dycvlbiyph/gmail_Nisqxp2C3.svg" alt="rodrigoab" height="20" width="20" /></a>
+ <a href="https://www.linkedin.com/in/rodrigo-barbosa-474ab9187/" target="blank"><img align="center" src="https://ik.imagekit.io/dycvlbiyph/linkedin_5TmmOfWrR.svg" alt="rodrigoab" height="20" width="20" /></a>
+</p>
+</footer>
