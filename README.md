@@ -4,11 +4,11 @@
   <h3 align="center">A student front-end developer focused on improving my skills</h3>
 </header>
 
-- 👨‍🎓 I have degree Computer science;
+- 👨‍🎓 ;
 
-- 💻 I'm currently do the Rocketseat Launchbase bootcamp;
+- 💻 ;
 
-- 🧠 I'm learning **JavaScript, HTML, CSS, SQL, TypeScript, React and React-Native**;
+- 🧠 I'm learning **ABAP**;
 
 <footer>
 <p align="center">
